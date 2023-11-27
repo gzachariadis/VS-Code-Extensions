@@ -1,16 +1,21 @@
 # VS-Code-Extensions
-A List of Useful VS Code Extensions
+
+A List of VS Code Extensions
 
 ## TypeScript & Javascript
 
 - [Twoslash Query Comments](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-twoslash-queries)
   - [My favourite VSCode extension has 3k downloads](https://www.youtube.com/watch?v=u0adKDu--cA)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+## Web Development
+
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
 ## Formatting
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-  
+
 ## Autocompletion
 
 - [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
@@ -23,14 +28,20 @@ A List of Useful VS Code Extensions
 
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Bracket Pair Colorization Toggler](https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler)
 
 ## Collaboration
 
-- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Share your Terminal with Other People
+  
 ## Debugging 
 
-- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
-- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) - 
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - See Commit History of a Specific File over a Git Repository's History.
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Show Error Messages in Line in Real Time
     
+## Social Media
+
+- [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take Beautiful Screenshots of pieces of code
+  
