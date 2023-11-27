@@ -22,7 +22,10 @@ A List of VS Code Extensions
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 <br>
-<br>
+
+## Productivity
+
+[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 ## Formatting
 
