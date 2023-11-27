@@ -8,9 +8,15 @@ A List of VS Code Extensions
   - [My favourite VSCode extension has 3k downloads](https://www.youtube.com/watch?v=u0adKDu--cA)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
+## Markdown
+
+- [Auto-Open Markdown](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
 ## Web Development
 
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 ## Formatting
 
@@ -19,6 +25,10 @@ A List of VS Code Extensions
 ## Autocompletion
 
 - [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
+## Spell Check
+
+[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ## Performance
 
@@ -32,10 +42,11 @@ A List of VS Code Extensions
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [TODO Highlights](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
-  
+
 ## Collaboration
 
-- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your Repository 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Share your Terminal with Other People
   
 ## Debugging 
