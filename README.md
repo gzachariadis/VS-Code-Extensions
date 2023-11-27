@@ -8,12 +8,11 @@ A List of VS Code Extensions
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 
-### Javascript & Typescript Specific
+#### Javascript & Typescript Specific
 - [Twoslash Query Comments](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-twoslash-queries)
   - [My favourite VSCode extension has 3k downloads](https://www.youtube.com/watch?v=u0adKDu--cA)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-<br>
 <br>
 
 ## Markdown
@@ -25,13 +24,12 @@ A List of VS Code Extensions
 
 ## Productivity
 
-[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 ## Formatting
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-<br>
 <br>
 
 ## Autocompletion
@@ -39,13 +37,11 @@ A List of VS Code Extensions
 - [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 <br>
-<br>
 
 ## Spell Check
 
-[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-<br>
 <br>
 
 ## Performance
@@ -53,13 +49,11 @@ A List of VS Code Extensions
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
 <br>
-<br>
 
 ## Logging
 
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 
-<br>
 <br>
 
 ## Personalization
@@ -73,7 +67,7 @@ A List of VS Code Extensions
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude)
 
-<br><br>
+<br>
 
 ## Collaboration
 
@@ -82,7 +76,7 @@ A List of VS Code Extensions
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your Repository 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Share your Terminal with Other People
 
-<br><br>
+<br>
 
 ## Debugging 
 
@@ -90,7 +84,7 @@ A List of VS Code Extensions
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - See Commit History of a Specific File over a Git Repository's History.
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Show Error Messages in Line in Real Time
 
-<br><br>
+<br>
 
 ## Social Media
 
