@@ -24,12 +24,15 @@ A List of VS Code Extensions
 
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-## Fun?
+## Personalization
 
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [Bracket Pair Colorization Toggler](https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler)
-
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [TODO Highlights](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
+  
 ## Collaboration
 
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) 
@@ -45,3 +48,4 @@ A List of VS Code Extensions
 
 - [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take Beautiful Screenshots of pieces of code
   
+
