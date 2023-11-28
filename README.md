@@ -2,14 +2,12 @@
 
 A List of VS Code Extensions
 
-<!-- TOC -->
-
 - [VS-Code-Extensions](#vs-code-extensions)
   - [Web Development](#web-development)
-    - [HTML & CSS Specific](#html--css-specific)
+    - [HTML \& CSS Specific](#html--css-specific)
     - [Web Browser Support](#web-browser-support)
     - [Typescript](#typescript)
-    - [Javascript & Typescript Specific](#javascript--typescript-specific)
+    - [Javascript \& Typescript Specific](#javascript--typescript-specific)
   - [Markdown](#markdown)
   - [Networking](#networking)
   - [Productivity](#productivity)
@@ -28,8 +26,6 @@ A List of VS Code Extensions
   - [Social Media](#social-media)
   - [APIs](#apis)
   - [Prototyping](#prototyping)
-
-<!-- /TOC -->
 
 ## Web Development
 
