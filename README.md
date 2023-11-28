@@ -4,10 +4,11 @@ A List of VS Code Extensions
 
 - [VS-Code-Extensions](#vs-code-extensions)
   - [Web Development](#web-development)
-    - [HTML \& CSS Specific](#html--css-specific)
-    - [Web Browser Support](#web-browser-support)
-    - [Typescript](#typescript)
-    - [Javascript \& Typescript Specific](#javascript--typescript-specific)
+      - [Autocomplete](#autocomplete)
+      - [HTML \& CSS Specific](#html--css-specific)
+      - [Web Browser Support](#web-browser-support)
+      - [Typescript](#typescript)
+      - [Javascript \& Typescript Specific](#javascript--typescript-specific)
   - [Markdown](#markdown)
   - [Networking](#networking)
   - [Productivity](#productivity)
@@ -26,18 +27,46 @@ A List of VS Code Extensions
   - [Social Media](#social-media)
   - [APIs](#apis)
   - [Prototyping](#prototyping)
+  - [Data](#data)
+  - [Uncategorized](#uncategorized)
 
 ## Web Development
 
-- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+- [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
+
+- [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
+
+- [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
+
+- [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+
+#### Autocomplete
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-- [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
+
+- [Snippet Creator](https://marketplace.visualstudio.com/items?itemName=wware.snippet-creator)
 
 #### HTML & CSS Specific
 
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) or [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+- [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules)
+
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+
+- [px to rem](https://marketplace.visualstudio.com/items?itemName=sainoba.px-to-rem)
+
+- [CSS Flexbox Cheatsheet](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet)
+
+- [CSS Grid Snippets](https://marketplace.visualstudio.com/items?itemName=ohansemmanuel.css-grid-snippets)
 
 #### Web Browser Support
 
@@ -49,6 +78,8 @@ A List of VS Code Extensions
 
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 
+- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
+
 #### Javascript & Typescript Specific
 
 - [Twoslash Query Comments](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-twoslash-queries)
@@ -57,10 +88,19 @@ A List of VS Code Extensions
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
+- [Arrow Function Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.arrow-function-snippets)
+
+- [Special-console.log](https://marketplace.visualstudio.com/items?itemName=leechaojiang.special-console-log)
+
 ## Markdown
 
 - [Auto-Open Markdown](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
+
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
 ## Networking
 
@@ -74,7 +114,7 @@ A List of VS Code Extensions
 
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
-- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+- [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 
 ## Editor Assist
 
@@ -98,9 +138,13 @@ A List of VS Code Extensions
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
+- [Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)
+
 ## Autocompletion
 
 - [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+
+- [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 ## Spell Check
 
@@ -138,6 +182,10 @@ A List of VS Code Extensions
 
 - [Winddown](https://marketplace.visualstudio.com/items?itemName=winddown.vscode-winddown)
 
+- [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
+
+- [Auto Hide](https://marketplace.visualstudio.com/items?itemName=sirmspencer.vscode-autohide)
+
 ## Documentation
 
 - [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
@@ -148,7 +196,7 @@ A List of VS Code Extensions
 
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-  - [GitBlame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame) - Configurable in-line comment about Git History
+- [GitBlame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame) - Configurable in-line comment about Git History
 
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your Repository
 
@@ -156,21 +204,50 @@ A List of VS Code Extensions
 
 - [TODO.md Kanban Board](https://marketplace.visualstudio.com/items?itemName=coddx.coddx-alpha)
 
+- [Github Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
 ## Debugging
 
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) -
+
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - See Commit History of a Specific File over a Git Repository's History.
+
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Show Error Messages in Line in Real Time
 
 ## Social Media
 
 - [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take Beautiful Screenshots of pieces of code
+
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Take Beautiful Screensons of Pieces of Code
 
 ## APIs
 
 - [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
+- [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json)
+
+- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+
+- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
 ## Prototyping
 
 - [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+
+## Data
+
+- [Random Everything](https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything)
+
+- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+
+## Uncategorized
+
+- [RAINING IN V S C O D E](https://marketplace.visualstudio.com/items?itemName=TorShepherd.raining-in)
+
+- [Better Folding](https://marketplace.visualstudio.com/items?itemName=MohammadBaqer.better-folding)
+
+- [StackFinder](https://marketplace.visualstudio.com/items?itemName=mark-fobert.stackfinder)
+
+- [Blockman - Highlight Nested Code Blocks](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)
+
+- [Real-Time Debugging](https://marketplace.visualstudio.com/items?itemName=hediet.realtime-debugging)
