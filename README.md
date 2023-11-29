@@ -4,11 +4,11 @@ A List of VS Code Extensions
 
 - [VS-Code-Extensions](#vs-code-extensions)
   - [Web Development](#web-development)
-      - [Autocomplete](#autocomplete)
-      - [HTML \& CSS Specific](#html--css-specific)
-      - [Web Browser Support](#web-browser-support)
-      - [Typescript](#typescript)
-      - [Javascript \& Typescript Specific](#javascript--typescript-specific)
+    - [Autocomplete](#autocomplete)
+    - [HTML \& CSS Specific](#html--css-specific)
+    - [Web Browser Support](#web-browser-support)
+    - [Typescript](#typescript)
+    - [Javascript \& Typescript Specific](#javascript--typescript-specific)
   - [Markdown](#markdown)
   - [Networking](#networking)
   - [Productivity](#productivity)
@@ -251,3 +251,9 @@ A List of VS Code Extensions
 - [Blockman - Highlight Nested Code Blocks](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)
 
 - [Real-Time Debugging](https://marketplace.visualstudio.com/items?itemName=hediet.realtime-debugging)
+
+- [Tabs color](https://marketplace.visualstudio.com/items?itemName=mondersky.tabscolor)
+
+- [Readable - AI Generated Comments](https://marketplace.visualstudio.com/items?itemName=pcsoftware.readable)
+
+- [Pieces for VS Code](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) & [Pieces Install](https://docs.pieces.app/installation-getting-started/windows)
