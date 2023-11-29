@@ -238,8 +238,6 @@ A List of VS Code Extensions
 
 - [Random Everything](https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything)
 
-- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
-
 ## Uncategorized
 
 - [RAINING IN V S C O D E](https://marketplace.visualstudio.com/items?itemName=TorShepherd.raining-in)
@@ -257,3 +255,7 @@ A List of VS Code Extensions
 - [Readable - AI Generated Comments](https://marketplace.visualstudio.com/items?itemName=pcsoftware.readable)
 
 - [Pieces for VS Code](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) & [Pieces Install](https://docs.pieces.app/installation-getting-started/windows)
+
+- [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks)
+
+- [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
