@@ -4,11 +4,11 @@ A List of VS Code Extensions
 
 - [VS-Code-Extensions](#vs-code-extensions)
   - [Web Development](#web-development)
-    - [Autocomplete](#autocomplete)
-    - [HTML \& CSS Specific](#html--css-specific)
-    - [Web Browser Support](#web-browser-support)
-    - [Typescript](#typescript)
-    - [Javascript \& Typescript Specific](#javascript--typescript-specific)
+      - [Autocomplete](#autocomplete)
+      - [HTML \& CSS Specific](#html--css-specific)
+      - [Web Browser Support](#web-browser-support)
+      - [Typescript](#typescript)
+      - [Javascript \& Typescript Specific](#javascript--typescript-specific)
   - [Markdown](#markdown)
   - [Networking](#networking)
   - [Productivity](#productivity)
@@ -29,6 +29,7 @@ A List of VS Code Extensions
   - [Prototyping](#prototyping)
   - [Data](#data)
   - [Uncategorized](#uncategorized)
+- [Resources](#resources)
 
 ## Web Development
 
@@ -94,6 +95,8 @@ A List of VS Code Extensions
 
 - [Special-console.log](https://marketplace.visualstudio.com/items?itemName=leechaojiang.special-console-log)
 
+- [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
+
 ## Markdown
 
 - [Auto-Open Markdown](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
@@ -105,6 +108,8 @@ A List of VS Code Extensions
 ## Networking
 
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
+- [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 ## Productivity
 
@@ -192,6 +197,8 @@ A List of VS Code Extensions
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
+- [JSDoc Generator](https://marketplace.visualstudio.com/items?itemName=kimlimjustin.jsdoc-generator) or [jsdoc](https://marketplace.visualstudio.com/items?itemName=lllllllqw.jsdoc) or [JSDoc Generator](https://marketplace.visualstudio.com/items?itemName=crystal-spider.jsdoc-generator)
+
 ## Collaboration
 
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -202,7 +209,7 @@ A List of VS Code Extensions
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Share your Terminal with Other People
 
-- [TODO.md Kanban Board](https://marketplace.visualstudio.com/items?itemName=coddx.coddx-alpha)
+- [TODO.md Kanban Board](https://marketplace.visualstudio.com/items?itemName=coddx.coddx-alpha) or [Kanban](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-kanban)
 
 - [Github Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 
@@ -256,6 +263,64 @@ A List of VS Code Extensions
 
 - [Pieces for VS Code](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode) & [Pieces Install](https://docs.pieces.app/installation-getting-started/windows)
 
-- [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks)
+- [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) or [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+
+- [ColorTabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
 - [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
+
+- [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file) + [11:30](https://www.youtube.com/watch?v=yvXHM2NByh4)
+
+- [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
+
+- [AutoComplate shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
+
+- [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
+
+- [Schema.org code snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org)
+
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+- [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
+
+- [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
+
+- [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
+
+- [Toggle](https://marketplace.visualstudio.com/items?itemName=rebornix.toggle)
+
+- [gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
+
+- [GitLink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink)
+
+- [Multiple clipboards for VSCode](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
+
+- [AutoHotkey Plus](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
+
+- [Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)
+
+- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+
+- [Project Dashboard](https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard)
+
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+
+- [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
+
+- [Time Converter](https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing)
+
+- [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
+
+- [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+
+- [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection)
+
+- [FOrmatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
+
+- [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
+
+- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+
+# Resources
+
+- [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
