@@ -347,7 +347,7 @@ A List of VS Code Extensions
 
 - [Move selection to new file](https://marketplace.visualstudio.com/items?itemName=kentos.move-selection-to-new-file)
 
-- 
+- [File Bunny](https://open-vsx.org/extension/robole/file-bunny)
 
 
 # Resources
