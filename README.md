@@ -321,6 +321,37 @@ A List of VS Code Extensions
 
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
+- [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
+
+- [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
+
+- [Titlebar-Less VSCode for macOS](https://marketplace.visualstudio.com/items?itemName=lehni.vscode-titlebar-less-macos)
+
+- [CodeUI](https://marketplace.visualstudio.com/items?itemName=ryanraposo.codeui)
+
+- [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
+
+- [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=zaaack.markdown-editor) or [Markdown Editor](https://open-vsx.org/extension/zaaack/markdown-editor)
+
+- [Markdown Footnotes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-footnotes)
+
+- [Markdown Links](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links)
+
+- [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes)
+
+- [Markdown Notebook](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-markdown-notebook)
+
+- [UNOTES - Markdown Notes WYSIWYG](https://marketplace.visualstudio.com/items?itemName=ryanmcalister.Unotes)
+
+- [Blockman - Highlight Nested Code Blocks](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman)
+
+- [Move selection to new file](https://marketplace.visualstudio.com/items?itemName=kentos.move-selection-to-new-file)
+
+- 
+
+
 # Resources
 
 - [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
+
+
